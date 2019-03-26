@@ -1,0 +1,24 @@
+{
+  "name": "react-native-android-version",
+  "version": "1.0.0",
+  "description": "Apply styles to specific android version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fgh151/react-native-android-version.git"
+  },
+  "keywords": [
+    "React",
+    "Native",
+    "Android"
+  ],
+  "author": "Fedor B Gorsky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fgh151/react-native-android-version/issues"
+  },
+  "homepage": "https://openitstudio.ru"
+}
